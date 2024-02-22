@@ -1,5 +1,5 @@
 # Manual de uso de los graficos
-### Marc Morlá Isern
+### Alumnos de DAW
 
 ## Implementación del código 📝
 Primero tenemos que importar la libreria de Chart.js
